@@ -78,6 +78,7 @@ ALLOWED_HOSTS = [
     '172.31.47.40',
     '127.0.0.1',
     'localhost',
+    'multichatchannels.herokuapp.com',
 ]
 
 # Application definition
